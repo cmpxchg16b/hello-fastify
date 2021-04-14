@@ -1,0 +1,23 @@
+{
+  "name": "hello-fastify",
+  "version": "1.0.0",
+  "description": "Basic API with Fastify",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmpxchg16b/hello-fastify.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmpxchg16b/hello-fastify/issues"
+  },
+  "homepage": "https://github.com/cmpxchg16b/hello-fastify#readme",
+  "dependencies": {
+    "fastify": "^3.14.2"
+  }
+}
